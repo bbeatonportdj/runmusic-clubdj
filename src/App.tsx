@@ -2,6 +2,8 @@ import { HashRouter, Route, Routes } from "react-router-dom";
 import { TopNav } from "./components/layout/TopNav";
 import { Account } from "./routes/Account";
 import { Admin } from "./routes/Admin";
+import { Cart } from "./routes/Cart";
+import { Checkout } from "./routes/Checkout";
 import { Home } from "./routes/Home";
 import { Login } from "./routes/Login";
 
@@ -15,6 +17,8 @@ export function App() {
             <Route path="/" element={<Home />} />
             <Route path="/login" element={<Login />} />
             <Route path="/account" element={<Account />} />
+            <Route path="/cart" element={<Cart />} />
+            <Route path="/checkout" element={<Checkout />} />
             <Route path="/admin" element={<Admin />} />
           </Routes>
         </div>
