@@ -1,0 +1,83 @@
+[
+  {
+    "id": "neon-runner",
+    "title": "Neon Runner",
+    "bpm": 128,
+    "key": "8A",
+    "previewUrl": "/audio/previews/neon-runner.mp3",
+    "downloadUrl320": "/audio/hi320/neon-runner-320.mp3"
+  },
+  {
+    "id": "midnight-bounce",
+    "title": "Midnight Bounce",
+    "bpm": 124,
+    "key": "6B",
+    "previewUrl": "/audio/previews/midnight-bounce.mp3",
+    "downloadUrl320": "/audio/hi320/midnight-bounce-320.mp3"
+  },
+  {
+    "id": "hyperline",
+    "title": "Hyperline",
+    "bpm": 140,
+    "key": "9A",
+    "previewUrl": "/audio/previews/hyperline.mp3",
+    "downloadUrl320": "/audio/hi320/hyperline-320.mp3"
+  },
+  {
+    "id": "strobe-season",
+    "title": "Strobe Season",
+    "bpm": 132,
+    "key": "10A",
+    "previewUrl": "/audio/previews/strobe-season.mp3",
+    "downloadUrl320": "/audio/hi320/strobe-season-320.mp3"
+  },
+  {
+    "id": "acid-signal",
+    "title": "Acid Signal",
+    "bpm": 126,
+    "key": "7B",
+    "previewUrl": "/audio/previews/acid-signal.mp3",
+    "downloadUrl320": "/audio/hi320/acid-signal-320.mp3"
+  },
+  {
+    "id": "club-velocity",
+    "title": "Club Velocity",
+    "bpm": 130,
+    "key": "9B",
+    "previewUrl": "/audio/previews/club-velocity.mp3",
+    "downloadUrl320": "/audio/hi320/club-velocity-320.mp3"
+  },
+  {
+    "id": "afterhours-arc",
+    "title": "Afterhours Arc",
+    "bpm": 122,
+    "key": "5A",
+    "previewUrl": "/audio/previews/afterhours-arc.mp3",
+    "downloadUrl320": "/audio/hi320/afterhours-arc-320.mp3"
+  },
+  {
+    "id": "laser-lane",
+    "title": "Laser Lane",
+    "bpm": 138,
+    "key": "11A",
+    "previewUrl": "/audio/previews/laser-lane.mp3",
+    "downloadUrl320": "/audio/hi320/laser-lane-320.mp3"
+  },
+  {
+    "id": "pulse-magnet",
+    "title": "Pulse Magnet",
+    "bpm": 128,
+    "key": "8B",
+    "previewUrl": "/audio/previews/pulse-magnet.mp3",
+    "downloadUrl320": "/audio/hi320/pulse-magnet-320.mp3"
+  },
+  {
+    "id": "darkroom-swing",
+    "title": "Darkroom Swing",
+    "bpm": 125,
+    "key": "6A",
+    "previewUrl": "/audio/previews/darkroom-swing.mp3",
+    "downloadUrl320": "/audio/hi320/darkroom-swing-320.mp3"
+  }
+]
+
